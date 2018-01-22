@@ -384,7 +384,7 @@ baidu_analytics: 316e60996ca276a70f3f34117fe9445a
 # Disqus
 disqus:
   enable: true
-  shortname:
+  shortname: 阿萨德
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
