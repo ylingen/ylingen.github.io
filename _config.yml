@@ -706,5 +706,9 @@ images: assets/images
 version: 5.1.1
 fireworks: true
 reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！感谢老铁送的666
-wechatpay: /path/to/wechat-reward-image
-alipay: /path/to/alipay-reward-image
+wechatpay: assets/images/alpay.jpg
+alipay: assets/images/wechat.jpg
+since: 2018.1.22
+# Online contact
+daovoice: true
+daovoice_app_id: d0a9a673
