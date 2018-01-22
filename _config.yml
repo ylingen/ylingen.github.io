@@ -414,7 +414,7 @@ changyan:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-baidushare: true
+#baidushare: true
 ##  type: button
 
 # Share
