@@ -237,7 +237,7 @@
                   <span class="post-meta-item-text">{{ __.post.min2read }}</span>
                 {% endif %}
                 <span title="{{ __.post.min2read }}">
-                  {{ post.content | number_of_words | divided_by: 200 }} 分钟
+                 ≈  {{ post.content | number_of_words | divided_by: 200 }} 分钟
                 </span>
               {% endif %}
             </div>
