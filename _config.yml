@@ -267,8 +267,8 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: hide
-  #display: always
+  #display: hide
+  display: always
   #display: hide
   #display: remove
 
@@ -414,16 +414,16 @@ changyan:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
+baidushare: true
 ##  type: button
 
 # Share
-jiathis: true
+#jiathis: true
 # Warning: JiaThis does not support https.
 #add_this_id:
 
 #Share
-duoshuo_share: true
+#duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
