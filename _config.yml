@@ -422,8 +422,8 @@ jiathis: true
 # Warning: JiaThis does not support https.
 #add_this_id:
 
-# Share
-#duoshuo_share: true
+#Share
+duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
