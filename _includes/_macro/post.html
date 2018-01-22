@@ -220,7 +220,7 @@
                 {% if site.post_wordcount.item_text %}
                   <span class="post-meta-item-text">{{ __.post.wordcount }}</span>
                 {% endif %}
-                <span title="{{ __.post.wordcount }}">
+                <span title="{{ __.post.item_text }}">
                   {{ post.content | number_of_words }} 字
                 </span>
               {% endif %}
