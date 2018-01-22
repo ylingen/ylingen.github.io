@@ -704,3 +704,4 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+fireworks: true
