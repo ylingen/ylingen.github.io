@@ -418,7 +418,7 @@ baidushare: true
 ##  type: button
 
 # Share
-#jiathis: true
+jiathis: true
 # Warning: JiaThis does not support https.
 #add_this_id:
 
