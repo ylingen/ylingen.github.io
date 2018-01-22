@@ -320,11 +320,7 @@
       {% endif  %}
     </div>
 
-    <div>
-      {% unless is_index %}
-      {% include _macro/my-copyright.html %}
-      {% endunless %}
-    </div>
+
 
 
 
@@ -333,7 +329,11 @@
       {% include _macro/passage-end-tag.html %}
       {% endunless %}
     </div>
-
+    <div>
+      {% unless is_index %}
+      {% include _macro/my-copyright.html %}
+      {% endunless %}
+    </div>
     <div>
 
       {% unless is_index %}
