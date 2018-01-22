@@ -214,7 +214,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: http:www.baidu.com
+  GitHub: https://github.com/ylingen
   简书: http:www.baidu.com
   QQ: http:www.baidu.com
   Weibo: http:www.baidu.com
@@ -384,7 +384,7 @@ baidu_analytics: 316e60996ca276a70f3f34117fe9445a
 # Disqus
 disqus:
   enable: true
-  shortname: 阿萨德
+  shortname: 123
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
