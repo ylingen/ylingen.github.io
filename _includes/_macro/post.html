@@ -325,12 +325,24 @@
       {% include _macro/my-copyright.html %}
       {% endunless %}
     </div>
+
+
+
+    <div>
+      {% if not is_index %}
+      {% include _macro/passage-end-tag.html %}
+      {% endif %}
+    </div>
+
     <div>
 
       {% unless is_index %}
         {% include _macro/wechat-subscriber.html %}
       {% endunless %}
     </div>
+
+
+
 
     <div>
       {% unless is_index %}
