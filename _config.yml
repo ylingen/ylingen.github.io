@@ -212,9 +212,12 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
   #LinkLabel: Link
-
+  github: http:www.baidu.com
+  简书: http:www.baidu.com
+  qq: http:www.baidu.com
+  weibo: http:www.baidu.com
 
 # Social Links Icons
 # Icon Mapping:
